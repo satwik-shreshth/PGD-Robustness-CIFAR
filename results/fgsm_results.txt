@@ -1,0 +1,8 @@
+FGSM Attack Results
+============================================================
+Attack: FGSM
+Epsilon: 0.03
+Clean Accuracy: 81.75%
+FGSM Accuracy: 35.25%
+Accuracy Drop: 46.50%
+Attack Success Rate: 64.75%
