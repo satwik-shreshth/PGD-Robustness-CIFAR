@@ -5,7 +5,7 @@ A comprehensive implementation of adversarial attack and defense mechanisms on C
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CIFAR-10](https://img.shields.io/badge/Dataset-CIFAR--10-yellow.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## ⚠️ Important Note on Model Performance
 
